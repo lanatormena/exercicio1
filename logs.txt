@@ -1,6 +1,24 @@
 Lana@LanaPC MINGW64 /c/exercicio1 (master)
 $ git log
-commit 5fde19072d65b1eaf6d0c64f0704b8f4884e62f1 (HEAD -> master)
+commit 1325838ad6ef766cadaaa7020c4d728ca2b80b71 (HEAD -> master, exercicio1/master)
+Author: lanatormena <48491232+lanatormena@users.noreply.github.com>
+Date:   Tue Mar 12 23:38:23 2019 -0300
+
+    Create README.md
+
+commit a6906b94ed74c5a5dc5cae89f87486edd8544d04
+Author: Lana Tormena <lanaatormena@gmail.com>
+Date:   Tue Mar 12 23:17:06 2019 -0300
+
+    Commitando alteracoes no status que nao foram adicionadas anteriormente
+
+commit 0978d6c2df9f978d5ed5d98297ba8c334271c2ee
+Author: Lana Tormena <lanaatormena@gmail.com>
+Date:   Tue Mar 12 22:27:35 2019 -0300
+
+    Adicionado arquivo de logs e alterado conteudo do arquivo status
+
+commit 5fde19072d65b1eaf6d0c64f0704b8f4884e62f1
 Author: Lana Tormena <lanaatormena@gmail.com>
 Date:   Tue Mar 12 21:58:06 2019 -0300
 
