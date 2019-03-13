@@ -1,0 +1,7 @@
+Lana@LanaPC MINGW64 /c/exercicio1 (master)
+$ git log
+commit 5fde19072d65b1eaf6d0c64f0704b8f4884e62f1 (HEAD -> master)
+Author: Lana Tormena <lanaatormena@gmail.com>
+Date:   Tue Mar 12 21:58:06 2019 -0300
+
+    Primeiro commit do exercicio1, adicionado arquivo de status
